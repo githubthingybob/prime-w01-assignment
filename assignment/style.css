@@ -11,7 +11,7 @@ h1{
 
 /* Make your p tag a different color and italic */
 p{
-  font-family:cursive;
+  font-family:italic;
   font-weight:bold;
   color:#009900;}
 /* Put a border around your image */
@@ -25,3 +25,6 @@ img {
   background-color: #5dade2;
   color:#9933ff;
   font-family: Georgia;}
+footer {
+  background-color:blue;
+}
